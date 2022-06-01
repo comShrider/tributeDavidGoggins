@@ -1,0 +1,42 @@
+html {
+}
+body {
+  margin: 0;
+  font-family: "Playfair Display", serif;
+  color: #8cc0de;
+  background-color: #222831;
+}
+img {
+  border-radius: 50%;
+  width: 400px;
+  height: 350px;
+}
+small {
+  font-size: 15px;
+  margin: auto;
+  display: block;
+  width: 75%;
+  text-align: center;
+}
+a {
+  color: greenyellow;
+}
+
+.caption {
+  margin-left: 10px;
+}
+.title_content {
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Bebas Neue", cursive;
+  font-size: 25px;
+}
+.info {
+  margin-top: 100px;
+  padding: 2%;
+  border-radius: 1.5%;
+  width: 60%;
+  background-color: #16003b;
+
+  margin-bottom: 100px;
+}
